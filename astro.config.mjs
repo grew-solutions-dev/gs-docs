@@ -3,8 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
-	site: process.env.CI ? "https://docs.grew-development.de" : "http://localhost:4321",
-	base: process.env.CI ? "/serverdocs" : undefined,
+	site: process.env.CI ? "https://docs.grew-solutions" : "http://localhost:4321",
+	base: process.env.CI ? "/gs-docs" : undefined,
 	integrations: [
 		starlight({
 			title: 'Hetzner Server Instruction',
@@ -26,8 +26,8 @@ export default defineConfig({
 				'./src/assets/css/main.css',
 			],
 			social: {
-				github: 'https://github.com/grew-development/serverdocs',
-				email: 'mailto:info@grew-development.de',
+				github: 'https://github.com/grew-solutions-dev/gs-docs',
+				email: 'mailto:info@grew-solutions.de',
 			},
 			sidebar: [
 				{

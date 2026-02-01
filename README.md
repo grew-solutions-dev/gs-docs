@@ -7,7 +7,9 @@
 > all those who want to build this server.
 
 ## Wiki Links
-For detailed instructions on how to replicate this setup can be found on my Wiki-Page: [https://grew-development.github.io/serverdocs](https://grew-development.github.io/serverdocs)<br/>
+For detailed instructions on how to replicate this setup can be found on my Wiki-Page:<br/>
+1. <a href="https://docs.grew-solutions.de" target="_blank">https://docs.grew-solutions.de</a>
+2. <a href="https://grew-solutions-dev.github.io/gs-docs" target="_blank">https://grew-solutions-dev.github.io/gs-docs</a>
 
 However, other things have also been added to this server for my FiveM community.
 I have not included these in this documentation, but have outsourced them to another documentation.
